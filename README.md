@@ -2,7 +2,7 @@
   
 ![previem](./.github/preview.gif)
 
-[Clique aqui para acessar](https://emanueldinizz.github.io/nlw-filmes/)
+[Clique aqui para acessar](https://emanueldinizz.github.io/Interface-user/)
 
 ## 🖥️ Tecnologias
 
